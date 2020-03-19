@@ -1,6 +1,6 @@
 # JavaSearchTools 辅助人工审计，寻找java反序列化危险类的工具。
 
-## Usage:java -jar SearchClassInJar.jar <Path>
+## Usage:java -jar SearchClassInJar.jar Path
 
 第一步：首先用jd-gui反编译jar包还原代码,存储路径：C:\\Users\\afanti\\Desktop\\ctf-tools\\jd-gui\\weblogic\\
 
